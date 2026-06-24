@@ -82,7 +82,7 @@ This book was written by the engineers of Parvan, students of Tabriz Azad Univer
 |---------|--------|------|------|
 | **01** | Elshan Ghozali | SEO-Coder | [![GitHub](https://img.shields.io/badge/ELSHAN_GO-181717?style=flat-square&logo=github)](https://github.com/ELSHAN-GO) |
 | **02** | Ehsan Fazli | Full-Stack / DevOps | [![GitHub](https://img.shields.io/badge/TssHack-181717?style=flat-square&logo=github)](https://github.com/TssHack) |
-| **03** | Amirmahdi Shahbazi | Linux / AI / Unity | [![GitHub](https://img.shields.io/badge/amirmwhdi-181717?style=flat-square&logo=github)](https://github.com/amirmwhdi) |
+| **03** | Amirmahdi Shahbazi | Linux / AI / Game Development | [![GitHub](https://img.shields.io/badge/amirmwhdi-181717?style=flat-square&logo=github)](https://github.com/amirmwhdi) |
 
 ---
 
